@@ -21,3 +21,5 @@
 10. FLlib: An open-source library developed by Intel that provides tools for building federated learning systems using TensorFlow.[Link]()
 
 11. Scaleout Systems [Link](https://www.scaleoutsystems.com/)
+
+12. MSRFlute [Link](https://github.com/microsoft/msrflute)
