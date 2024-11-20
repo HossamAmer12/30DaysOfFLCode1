@@ -6,9 +6,9 @@
 
 ### **Nov 20, 2024 (Wednesday):** Introduction to Federated Learning
 
-- **Reding**:
+- **Reading**: Federated learning: Applications, challenges and future directions
 
-- **Exercise**:
+- **Exercise**: 
 
 - **Resource**:
 
